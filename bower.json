@@ -1,0 +1,24 @@
+{
+  "name": "Sailor",
+  "version": "0.0.0",
+  "authors": [
+    "Darc Inc"
+  ],
+  "description": "Sailor is an angular module which consumes Siren compliant payloads",
+  "main": "sailor.js",
+  "keywords": [
+    "rest",
+    "hateoas",
+    "angular",
+    "json"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/DarcInc/Sailor",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
